@@ -1,4 +1,4 @@
-# MaxMargin Embedding Criterion
+# MaxMargin Criterion
 
 This is a Torch implementation of the margin maximizing loss function that has been used in [1][1] and [2][2].
 
